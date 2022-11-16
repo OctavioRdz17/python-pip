@@ -181,7 +181,7 @@ env_app/
 ENV/
 env.bak/
 venv.bak/
-imgs/
+*.png 
 
 # Spyder project settings
 .spyderproject
